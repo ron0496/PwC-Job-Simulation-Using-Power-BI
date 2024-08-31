@@ -25,13 +25,13 @@ KPIs to include:
 #### Insights
 1. The findings shows that the total numberof calls that came through was 5000 Average speed for answering calls was 67.52 secs.
 2. Top 8 agents did not have ratings of 4 or above.
-3. Calls not resolved summed up to 946 and the overall call satisfaction rating was 2.8
+3. Calls not resolved summed up to 946 and the overall call satisfaction rating was 2.8 
 4. It was found that 81% of calls were answered while 72.92% of the call related issues were resolved.
 
 #### Recommendation
-1. Agents must be educated and trained on the impotance and power of ratings and how it affects the company 
-2. Calls must be answered promptly to reduce the number of unanswered calls
-3. Agents should be well trained and equipped in order to be in the postion to resolved all issues
+1. Agents must be educated and trained on the impotance and power of ratings and how it affects the company. 
+2. Calls must be answered promptly to reduce the number of unanswered calls.
+3. Agents should be well trained and equipped in order to be in the postion to resolved all issues.
 
 
 ### Task 2: Customer Retention
@@ -39,10 +39,10 @@ Define proper KPIs and create a dashboard for the retention manager reflecting t
 
 KPIs to include:
 
-1. Customers who left within the last month
+1. Customers who left within the last month.
 2. Services each customer has signed up for: phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies.
 3. Customer account information: how long as a customer, contract, payment method, paperless billing, monthly charges, total charges. and number of tickets opened in the categories administrative and technical.
-4 Demographic info about customers – gender, age range, and if they have partners and dependents.
+4. Demographic info about customers – gender, age range, and if they have partners and dependents.
 
 [Dasboard Link](https://app.powerbi.com/view?r=eyJrIjoiYmQxNTY4OWYtNTkxYi00NGMzLWE2MGEtMzU5N2U3OTI2MzFkIiwidCI6ImQyOGUwY2RhLTdjMWUtNDljOC05ZDk0LTFiMmUwNWE5MDQ2OCJ9)
 
