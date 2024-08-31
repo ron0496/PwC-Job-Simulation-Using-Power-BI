@@ -87,8 +87,9 @@ KPIs to include:
 
 [Dasboard Link](https://app.powerbi.com/view?r=eyJrIjoiMzU5NTFjNjMtMjhjOC00MzJiLWI0ODctOGM3ZmIyYWM2NzcwIiwidCI6ImQyOGUwY2RhLTdjMWUtNDljOC05ZDk0LTFiMmUwNWE5MDQ2OCJ9)
 
-<img width="1302" alt="Screenshot 2024-08-31 at 6 19 52 PM" src="https://github.com/user-attachments/assets/84395984-cc74-4cc8-81a1-4c233458a367">
-<img width="1302" alt="Screenshot 2024-08-31 at 5 26 55 PM" src="https://github.com/user-attachments/assets/0a9ad595-4a8f-41e0-95c7-440fbff7abc2">
+<img width="1191" alt="Screenshot 2024-08-31 at 7 55 20 PM" src="https://github.com/user-attachments/assets/a722a829-7a8c-4cca-a8c2-a2dee0e8a0ac">
+<img width="1191" alt="Screenshot 2024-08-31 at 7 52 35 PM" src="https://github.com/user-attachments/assets/600dc296-5fba-484e-9b20-91c6c7d7459c">
+
 
 
 #### Insights
