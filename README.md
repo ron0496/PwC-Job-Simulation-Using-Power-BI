@@ -4,6 +4,8 @@ This project is part of the [PwC Switzerland Power BI in Data Analytics Virtual 
 
 Through meticulous data analysis and visualization, this project aims to support informed decision-making and highlight areas for improvement and innovation.
 
+[Certificate of Completion](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_aXM3Xh4DNSNAw9pzW_1725032498261_completion_certificate.pdf)
+
 ## Tasks
 
 ### Task 1: Call Centre Trends
