@@ -102,7 +102,26 @@ KPIs to include:
 Employers mut take necessary steps to eliminate gender bias in hiring and prmotion stage There should be equal oppotunities created this can be creating career groeth opportunitis for females promote diversity and promote healthy environment. Survey should be sent to employes on ways to increase retention.
 
 
+• The average performance rating of the employees decreased from to in FY20..
 
+• Maximum hiring of employees is done from Switzerland ,France & Germany respectively, hence in order to increase diversity need to hire talented employees from different part of globe.
+
+• The slow progress in the executive level is of the fact that only less than 20% female is promoted to this managerial and executive roles.
+
+• Employee promotion rate is increase by 3% in FY21 than FY20.
+
+• Performance rating is drop by 0.57 in FY20 than FY19
+
+• FTE's are more likely to leave as well as male as highly leaver than females.
+
+Suggestions
+####To ensure progress in diversity and inclusion in the executive level;
+
+• More women should be hired and most especially promoted because the gap in the ratio of men to women is quite large.
+
+• Forthe Executive and Director position ,female employee count as well as the promotio count is too low compared to male employee hence more women should be hired as well as promoted.
+
+• Age group 30-39 has more rate of promotion compared to 40-49 age group, experience should be consider as one of the the one of the criteria for promotion checklist.
 
 
 
