@@ -100,7 +100,7 @@ KPIs to include:
 
 #### Recommendation
 
-Employers mut take necessary steps to eliminate gender bias in hiring and prmotion stage There should be equal oppotunities created this can be creating career groeth opportunitis for females promote diversity and promote healthy environment. Survey should be sent to employes on ways to increase retention.
+Employers mut take necessary steps to eliminate gender bias in hiring and prmotion stage. There should be equal oppotunities created this can be creating career groeth opportunitis for females promote diversity and promote healthy environment. Survey should be sent to employes on ways to increase retention.
 
 
 
